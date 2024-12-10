@@ -6,5 +6,5 @@ let rectangle = {
     }
   };
   
-  console.log(rectangle.area());  // 50
+  console.log(rectangle.area());  
   
