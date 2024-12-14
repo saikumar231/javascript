@@ -7,10 +7,10 @@ function countProperties(obj) {
   }
   
   let user = {
-    name: "John",
-    age: 30,
+    name: "sai",
+    age: 22,
     isAdmin: true
   };
   
-  console.log(countProperties(user));  // 3
+  console.log(countProperties(user)); 
   
