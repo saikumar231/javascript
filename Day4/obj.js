@@ -10,6 +10,8 @@ let class1={
     sai:"kumar"
 };
 
+food.show="saikumar";
+
 food.__proto__=media;
 class1.__proto__==food;
 
